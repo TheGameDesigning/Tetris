@@ -1,5 +1,5 @@
 #To install PYGAME, use this command: py -m pip install -U pygame --user
-#Abijith the editor
+#the editor
 #You also need to download python to even run this(Obviously)
 
 from random import randrange as rand
